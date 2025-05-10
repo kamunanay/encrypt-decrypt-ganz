@@ -8,14 +8,17 @@ Script Python untuk mengenkripsi dan mendekripsi file (HTML, CSS, JS, dll) mengg
 ```bash
 git clone https://github.com/kamunanay/encrypt-decrypt-ganzmods.git
 cd encrypt-decrypt-ganzmods# encrypt-decrypt-ganzmods
+```
 
-## Install Depedendsi
+## Install Dependendsi
 
 2.install depedensi :
 ```bash
 pip install -r requirements.txt
+```
 
 ## Jalankan Programnya 
-3.Kodenya
+3.Jalankan Kode nya
 ```bash
 python encrypt_decrypt_ganzmods.py
+```
